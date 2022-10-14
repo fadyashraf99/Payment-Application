@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1665774541 source:e:\projects\code blocks\fwd\payment application\application\app.c
+	"app.h"
+
+1665774617 e:\projects\code blocks\fwd\payment application\application\app.h
+	"../Server/server.h"
+
+1665774617 e:\projects\code blocks\fwd\payment application\server\server.h
+	"../Terminal/terminal.h"
+
+1665774617 e:\projects\code blocks\fwd\payment application\terminal\terminal.h
+	"../Card/card.h"
+
+1665774617 e:\projects\code blocks\fwd\payment application\card\card.h
+	"../STD_Types.h"
+
+1665774541 e:\projects\code blocks\fwd\payment application\std_types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1665774541 source:e:\projects\code blocks\fwd\payment application\card\card.c
+	"card.h"
+
+1665774617 source:e:\projects\code blocks\fwd\payment application\main.c
+	"Application/app.h"
+
+1665774541 source:e:\projects\code blocks\fwd\payment application\server\server.c
+	"server.h"
+
+1665774617 source:e:\projects\code blocks\fwd\payment application\terminal\terminal.c
+	"terminal.h"
+
